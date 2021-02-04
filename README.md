@@ -1,6 +1,6 @@
 # Bank-Churn-Prediction-using-Deep-Learning-And-Machine-Learning-Models
 
-## Supervisor for this project carried out by talented students of BITS Karyn Anselm D'souza, Vinayak Sengupta, Shaik Sabiha
+### Supervisor for this project carried out by talented students of BITS Karyn Anselm D'souza, Vinayak Sengupta, Shaik Sabiha
 
 Churn Rates (customers leaving or closing accounts) in companies for various reasons have also as result become a rising concern. Hence, the retention of customers has become paramount. According to the Qualtrics Banking Report, “poor service” was the reason the customers left. 56% of these customers stated that with better services they could have been retained. According to some customers they felt unvalued by the banks themselves. In a customer centric industry, customer loyalty is the decider of all, and customer experience invites loyalty. Research at Bain & Company suggested that a 5% decrease in customer population can reduce profits from 95% to 25%. 
 
